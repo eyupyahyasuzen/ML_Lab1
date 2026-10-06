@@ -1,0 +1,23 @@
+import sys
+import numpy
+import pandas
+import sklearn
+import scipy
+import matplotlib
+import seaborn
+import torch
+import torchvision
+import psutil
+import joblib
+
+print("Python:", sys.version)
+print("numpy:", numpy.__version__)
+print("pandas:", pandas.__version__)
+print("scikit-learn:", sklearn.__version__)
+print("scipy:", scipy.__version__)
+print("matplotlib:", matplotlib.__version__)
+print("seaborn:", seaborn.__version__)
+print("torch:", torch.__version__)
+print("torchvision:", torchvision.__version__)
+print("psutil:", psutil.__version__)
+print("joblib:", joblib.__version__)

@@ -1,0 +1,11 @@
+Python: 3.11.8 (v3.11.8:db85d51d3e, Feb  6 2024, 18:02:37) [Clang 13.0.0 (clang-1300.0.29.30)]
+numpy: 1.26.4
+pandas: 2.2.2
+scikit-learn: 1.5.0
+scipy: 1.13.1
+matplotlib: 3.9.0
+seaborn: 0.13.2
+torch: 2.3.1
+torchvision: 0.18.1
+psutil: 5.9.8
+joblib: 1.4.2
